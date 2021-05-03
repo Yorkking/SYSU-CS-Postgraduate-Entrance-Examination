@@ -46,12 +46,12 @@ commit 时建议以 `"contributor-name : subject"`，比如 `小明 : 数学分�
 
 ```bash
 git clone https://github.com/Yorkking/SYSU-CS-Postgraduate-Entrance-Examination
-git checkout dev 或者 git branch your-branch
+git checkout dev 或者 git branch your-branch && git checkout your-branch
 ... 在 resource 目录下上传文件并更新 README
 git add .
 git commit -m "your-name:subjects"
 git push
 ```
 
-
+**注意！！！强烈不建议直接在 `main` 分支下修改！**
 
