@@ -9,7 +9,7 @@
 - [水唐](https://yorkking.github.io/)（shuitang.wang@foxmail.com）报考计算机专硕（电子信息），初试 420，复试 470.20，总成绩 890.20（总成绩排第一）
 - 潭影空心（王新荣），报考计算机学硕（计算机科学与技术），初试429，复试428.40，总成绩857.40（总成绩排第二）
 - 能 C 何必混（[wangyaning45 (github.com)](https://github.com/wangyaning45)），报考计算机专硕（电子信息），初试 410，复试 424.20，总成绩 834.20。
-- 徐白云，
+- [云](https://github.com/qq33899)，报考计算机专硕（电子信息），初试 400，复试 454，总成绩 854。
 
 中山大学复试的考察内容：
 
@@ -28,9 +28,9 @@
 - [x] 数学分析——by 水唐
 - [x] 概率论与数理统计——by 潭影空心
 - [x] 线性代数——by 能 C 何必混
-- [x] 离散数学—— by 徐白云
+- [x] 离散数学—— by 云
 - [x] C/C++ —— by 能 C 何必混
-- [x] 数据库系统原理—— by 徐白云
+- [x] 数据库系统原理—— by 云
 - [x] 计算机网络—— by 能 C 何必混
 - [x] 计算机组成原理—— by 水唐
 - [ ] 数据结构与算法
@@ -42,7 +42,7 @@
 
 如果你也想对本项目做出贡献，那么你可以先把该项目进行 fork 或者 git clone 到本地，然后自己建立一个分支 `your-branch`，然后上传资料到 `/resource/` 下，然后更新 README，分别在**参与人员**和**整理科目**下更新信息。
 
-commit 时建议以 `"contributor-name : subject"`，比如 `小明 : 数学分析`。然后 push 上来，再提交一个 pull request。即：
+commit 时建议以 `"contributor-name : subject"`，比如 `小明 : 数学分析`。然后 push 上来，最后提交一个 pull request。即：
 
 ```bash
 git clone https://github.com/Yorkking/SYSU-CS-Postgraduate-Entrance-Examination
