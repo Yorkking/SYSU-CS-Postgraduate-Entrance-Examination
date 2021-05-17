@@ -40,7 +40,7 @@
 
 ## 如何贡献
 
-如果你也想对本项目做出贡献，那么你可以先把该项目进行 fork 或者 git clone 到本地，然后自己建立一个分支 `your-branch`，然后上传资料到 `/resource/` 下，然后更新 README，分别在**参与人员**和**整理科目**下更新信息。
+如果你也想对本项目做出贡献，那么你可以先把该项目进行 fork 或者 git clone 到本地，然后自己建立一个分支 `your-branch`，然后上传资料到 `/doc/` 和 `/assets/`  下，其中 `/doc` 下存文档信息，图片信息可以上传到 `/assets/images`，然后更新 README，分别在**参与人员**和**整理科目**下更新信息。
 
 commit 时建议以 `"contributor-name : subject"`，比如 `小明 : 数学分析`。然后 push 上来，最后提交一个 pull request。即：
 
